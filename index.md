@@ -193,17 +193,16 @@ Certifications	•	Professional Scrum Master
 
 ###	Carve-out
 `2019/09 - 2020/12`
-IT Operations carve-out incl. network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes
-Industry	Chemicals, Leverkusen, Germany
-Duration	2019/09 – 2020/12
-Description	•	High priority, high visibility M&A project
-•	Total business value of > 2 B EUR
-•	Digital Plant
-•	Digital Worker
-•	Supply Chain Control Tower
-•	Logistics Control Tower
-•	360 Degree Customer Journey
-Role	Project Manager
+**Project Manager**, IT Operations carve-out<br/> 
+incl. network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes
+*Chemicals, Leverkusen, Germany*
+- High priority, high visibility M&A project
+- Total business value of > 2 B EUR
+- Digital Plant
+- Digital Worker
+- Supply Chain Control Tower
+- Logistics Control Tower
+- 360 Degree Customer Journey
 	
 ###	Digital Transformation
 Digital Operating Model, Digital Architecture, Minimum Viable Product Implementations, Change Management, Sourcing Strategy

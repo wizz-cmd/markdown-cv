@@ -1,4 +1,4 @@
-I"�?<h1 id="christian-schömer">Christian Schömer</h1>
+I"A<h1 id="christian-schömer">Christian Schömer</h1>
 <p>Augustenstr. 3<br />
 04317 Leipzig<br />
 Germany<br /></p>
@@ -16,21 +16,11 @@ Germany<br /></p>
 <p>Always at the intersection of business and technology, Christian has 17 years of experience as a consultant, practice leader, and entrepreneur. Using his deep practical knowledge in design and delivery of CIO advisory services, Internet of Things (IoT), Blockchain, Cybersecurity, and technology innovation, he has delivered a number of challenging digital enterprise transformations. Having worked for several large clients in Europe, North America, and the Middle East, Christian gained extensive international experience. Besides his focus industry sector Chemicals, Christian has worked for clients in Life Sciences, Energy, Utilities, and Technology.</p>
 
 <ul>
-  <li>
-    <p>Fifteen (15) years of project management experience, including large scale projects, international projects, and off-shore projects; intercultural experience and strong communication skills</p>
-  </li>
-  <li>
-    <p>Twelve (12) years of project experience in Business Process Management (BPM) and Enterprise Architecture Management, Six Sigma Greenbelt, familiar with several BPM and EAM software suites and concepts e.g., ARIS, Casewise, Symbio, Signavio, leanIX, EPC, BPMN</p>
-  </li>
-  <li>
-    <p>Eight (8) years of experience in the Systems Development Life Cycle (SDLC) and the management and implementation of development projects for digital products and services using different development process models, including agile methods (such as Scrum), OOA and OOD, Extreme Programming</p>
-  </li>
-  <li>
-    <p>Strong experience in CIO advisory and Digital / IT operating models</p>
-  </li>
-  <li>
-    <p>Proven record of sales success to keep assigned consulting teams at exceptional high utilization</p>
-  </li>
+  <li>Fifteen (15) years of project management experience, including large scale projects, international projects, and off-shore projects; intercultural experience and strong communication skills</li>
+  <li>Twelve (12) years of project experience in Business Process Management (BPM) and Enterprise Architecture Management, Six Sigma Greenbelt, familiar with several BPM and EAM software suites and concepts e.g., ARIS, Casewise, Symbio, Signavio, leanIX, EPC, BPMN</li>
+  <li>Eight (8) years of experience in the Systems Development Life Cycle (SDLC) and the management and implementation of development projects for digital products and services using different development process models, including agile methods (such as Scrum), OOA and OOD, Extreme Programming</li>
+  <li>Strong experience in CIO advisory and Digital / IT operating models</li>
+  <li>Proven record of sales success to keep assigned consulting teams at exceptional high utilization</li>
 </ul>
 
 <h2 id="personal-data">Personal Data</h2>
@@ -53,24 +43,27 @@ Nationality:	German</p>
 Myers-Briggs Type:	ENTJ
 Gallup CliftonStrengths:	Achiever, Learner, Competition, Futuristic, Command</p>
 
-<p>Industry Experience	•	Chemicals 
-•	Life Sciences
-•	Utilities
-•	Technology</p>
+<h2 id="industry-experience">Industry Experience</h2>
+<ul>
+  <li>Chemicals</li>
+  <li>Life Sciences</li>
+  <li>Utilities</li>
+  <li>Technology</li>
+</ul>
 
-<p>Education	•	Bachelor of Science, Computer Science (specialist field: cryptography), Saarland University, Saarbrücken, Germany 
-•	Baccalaureate, Gymnasium Am Stadtgarten, Saarlouis, Germany</p>
+<h2 id="education--bachelor-of-science-computer-science-specialist-field-cryptography-saarland-university-saarbrücken-germany">Education	•	Bachelor of Science, Computer Science (specialist field: cryptography), Saarland University, Saarbrücken, Germany</h2>
+<p>•	Baccalaureate, Gymnasium Am Stadtgarten, Saarlouis, Germany</p>
 
-<p>Languages	•	German (native)
-•	English (C1/C2)
+<h2 id="languages--german-native">Languages	•	German (native)</h2>
+<p>•	English (C1/C2)
 •	French (A2)
 •	Dutch (A2)
 •	Arabic (basic knowledge)
 •	Afrikaans (basic knowledge)</p>
 
-<p> 
-Professional Education	•	Several professional trainings regarding
-o	Leadership
+<p> </p>
+<h2 id="professional-education--several-professional-trainings-regarding">Professional Education	•	Several professional trainings regarding</h2>
+<p>o	Leadership
 o	Sales
 o	Recruiting
 o	Negotiating
@@ -155,9 +148,8 @@ o	Conflict Management
   <li>Delivery management, project management, and consulting for CIO services and digital transformation</li>
 </ul>
 
-<p><strong>Lodestone Management Consultants, Munich, Germany</strong></p>
-
-<p><strong>Principal, 2013/01 – 2015/04</strong></p>
+<p><code class="language-plaintext highlighter-rouge">2013/01 - 2015/04</code>
+<strong>Principal, Lodestone Management Consultants</strong>, Munich, Germany</p>
 
 <ul>
   <li>Business Strategy Transformation &amp; IT Strategy Transformation</li>
@@ -172,9 +164,8 @@ o	Conflict Management
   <li>Consulting in Business Continuity Management, IT Risk Management, and IT Service Management</li>
 </ul>
 
-<p><strong>IDS Scheer AG (since 2011: IDS Scheer Consulting GmbH, part of Software AG), Saarbrücken, Germany</strong></p>
-
-<p><strong>Manager (from 2010/01 on, Senior Consultant before), 2006/09 – 2012/12</strong></p>
+<p><code class="language-plaintext highlighter-rouge">2006/09 - 2012/12</code>
+<strong>Manager (from 2010/01 on, Senior Consultant before), IDS Scheer AG (since 2011: IDS Scheer Consulting GmbH, part of Software AG)</strong>, Saarbrücken, Germany</p>
 
 <ul>
   <li>Business Development &amp; Practice Development (recruiting, on-boarding, performance evaluation, counselling, service offering development)</li>
@@ -237,7 +228,8 @@ o	Conflict Management
 <h2 id="project-experience-selection">Project Experience (Selection)</h2>
 
 <h3 id="carve-out">Carve-out</h3>
-<p>IT Operations carve-out incl. network, workplace, server &amp; storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes
+<p><code class="language-plaintext highlighter-rouge">2019/09 - 2020/12</code>
+IT Operations carve-out incl. network, workplace, server &amp; storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes
 Industry	Chemicals, Leverkusen, Germany
 Duration	2019/09 – 2020/12
 Description	•	High priority, high visibility M&amp;A project

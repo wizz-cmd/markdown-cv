@@ -192,6 +192,7 @@ Certifications	•	Professional Scrum Master
 ## Project Experience (Selection)
 
 ###	Carve-out
+`2019/09 - 2020/12`
 IT Operations carve-out incl. network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes
 Industry	Chemicals, Leverkusen, Germany
 Duration	2019/09 – 2020/12

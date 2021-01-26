@@ -88,8 +88,9 @@ Certifications	•	Professional Scrum Master
 
 ## Professional Experience
 
-`2009 - present`
-**Industry Team Lead Oil, Gas & Chemicals, Deloitte Consulting GmbH**, Berlin, Germany
+### Deloitte Consulting GmbH
+`2019/01 - present`
+**Industry Team Lead Oil, Gas & Chemicals**, Berlin, Germany
 
 - Technology Strategy Leadership Team and Oil, Gas & Chemcals Leadership Team
 - Industry team lead for process industries (Chemicals, Life Sciences)
@@ -105,8 +106,9 @@ Certifications	•	Professional Scrum Master
   - Assigned teams at > 70 % utilization despite COVID-19
 - Delivery management, project management, and consulting for CIO services and digital transformation
 
+### Accenture GmbH
 `2017/06 - 2018/12`
-**Senior Manager, Accenture GmbH**, Berlin, Germany
+**Senior Manager**, Berlin, Germany
 
 - Resources Industry Technology Consulting (RES TC) Leadership Team
 - Business & Practice Development
@@ -117,8 +119,9 @@ Certifications	•	Professional Scrum Master
   - New IT team grown from 4 to 21 people
 - Delivery management, project management, and consulting for CIO services and digital transformation
 
+### Deloitte Consulting GmbH
 `2015/05 - 2017/05`
-**Senior Manager, Deloitte Consulting GmbH**, Berlin, Germany
+**Senior Manager**, Berlin, Germany
 
 - Technology Strategy & Architecture (TS&A) Leadership Team
 - TS&A Life Sciences industry lead
@@ -151,10 +154,9 @@ Certifications	•	Professional Scrum Master
 - Leverage project results for ARIS GRC
 - Consulting in Business Process Management, Enterprise Architecture Management, IT Governance, Risk & Compliance, IT Risk Management, IT Security Management, IT Service Management, and Business Continuity Management
 
-**inoplex AG, Saarbrücken, Germany**
-
-**Founder, Chief Executive Officer (from 2005/07 on), Board member, 2003/01 – 2006/07**
-
+### inoplex AG
+`2003/01 - 2006/07`
+**Founder, Board Member, CEO (from 2005/07 on)**, Saarbrücken, Germany
 - Head of Delivery, Sales, and HR
 - Program Management
 - Consulting in IT Risk Management and Business Continuity Management
@@ -193,28 +195,25 @@ Certifications	•	Professional Scrum Master
 
 ###	Carve-out
 `2019/09 - 2020/12`
-**Project Manager**, IT Operations carve-out<br/> 
-incl. network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes
-*Chemicals, Leverkusen, Germany*
-- High priority, high visibility M&A project
-- Total business value of > 2 B EUR
-- Digital Plant
-- Digital Worker
-- Supply Chain Control Tower
-- Logistics Control Tower
-- 360 Degree Customer Journey
+**Project Manager**<br/> 
+*Chemicals, Leverkusen, Germany*<br/>
+IT Operations carve-out of network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes<br/>
+High priority, high visibility M&A project with a total business value of more than 2,5 B EUR<br/>
+Delivered three months ahead of schedule
 	
+###	Digital Operations Strategy
+`2019/04 - 2020/08`
+**Project Manager & Subject Matter Expert Digital Transformation**<br/> 
+*Life Sciences, Ingelheim, Germany*<br/>
+Digital Operations Strategy for *Human Pharma* business unit covering all relevant factories and support functions<br/>
+Target design for real-time release, no-touch supply chain, paperless production and integrated quality control
+
 ###	Digital Transformation
-Digital Operating Model, Digital Architecture, Minimum Viable Product Implementations, Change Management, Sourcing Strategy
-Industry	Chemicals, München, Germany
-Duration	2017/10 – 2018/12 (ongoing)
-Description	•	Digital Twin
-•	Digital Plant
-•	Digital Worker
-•	Supply Chain Control Tower
-•	Logistics Control Tower
-•	360 Degree Customer Journey
-Role	Workstream Lead and Subject Matter Expert
+`2017/10 - 2018/12`
+**Workstream Lead & Subject Matter Expert Digital Transformation**<br/> 
+*Chemicals, Munich, Germany*<br/>
+Digital Operations Strategy, Digital Operating Model, Digital Architecture, Minimum Viable Product Implementations, Change Management & Sourcing Strategy for five business units covering all relevant factories and support functions<br/>
+Target design for & implementation of Digital Twin, Digital Plant, Digital Worker, Supply Chain Control Tower, Logistics Control Tower, 360 Degree Customer Journey
 	
 ###	Digital Transformation
 Digital Operating Model, Digital Architecture, Minimum Viable Product Implementations, Change Management, Sourcing Strategy

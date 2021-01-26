@@ -20,13 +20,9 @@ Christian is a member of Deloitte’s Technology Strategy & Transformation leade
 Always at the intersection of business and technology, Christian has 17 years of experience as a consultant, practice leader, and entrepreneur. Using his deep practical knowledge in design and delivery of CIO advisory services, Internet of Things (IoT), Blockchain, Cybersecurity, and technology innovation, he has delivered a number of challenging digital enterprise transformations. Having worked for several large clients in Europe, North America, and the Middle East, Christian gained extensive international experience. Besides his focus industry sector Chemicals, Christian has worked for clients in Life Sciences, Energy, Utilities, and Technology.
 
 - Fifteen (15) years of project management experience, including large scale projects, international projects, and off-shore projects; intercultural experience and strong communication skills
-
 - Twelve (12) years of project experience in Business Process Management (BPM) and Enterprise Architecture Management, Six Sigma Greenbelt, familiar with several BPM and EAM software suites and concepts e.g., ARIS, Casewise, Symbio, Signavio, leanIX, EPC, BPMN
-
 - Eight (8) years of experience in the Systems Development Life Cycle (SDLC) and the management and implementation of development projects for digital products and services using different development process models, including agile methods (such as Scrum), OOA and OOD, Extreme Programming 
-
 - Strong experience in CIO advisory and Digital / IT operating models
-
 - Proven record of sales success to keep assigned consulting teams at exceptional high utilization
 
 ## Personal Data
@@ -49,15 +45,16 @@ Merrill-Reid Social Style:	Driver
 Myers-Briggs Type:	ENTJ
 Gallup CliftonStrengths:	Achiever, Learner, Competition, Futuristic, Command
 	
-Industry Experience	•	Chemicals 
-•	Life Sciences
-•	Utilities
-•	Technology
+## Industry Experience
+- Chemicals 
+- Life Sciences
+- Utilities
+- Technology
 	
-Education	•	Bachelor of Science, Computer Science (specialist field: cryptography), Saarland University, Saarbrücken, Germany 
+## Education	•	Bachelor of Science, Computer Science (specialist field: cryptography), Saarland University, Saarbrücken, Germany 
 •	Baccalaureate, Gymnasium Am Stadtgarten, Saarlouis, Germany
 	
-Languages	•	German (native)
+## Languages	•	German (native)
 •	English (C1/C2)
 •	French (A2)
 •	Dutch (A2)
@@ -65,7 +62,7 @@ Languages	•	German (native)
 •	Afrikaans (basic knowledge)
 	
  
-Professional Education	•	Several professional trainings regarding
+## Professional Education	•	Several professional trainings regarding
 o	Leadership
 o	Sales
 o	Recruiting
@@ -92,7 +89,7 @@ Certifications	•	Professional Scrum Master
 ## Professional Experience
 
 `2009 - present`
-**Industry Team Lead Oil, Gas & Chemicals**, *Deloitte Consulting GmbH*, Berlin, Germany
+**Industry Team Lead Oil, Gas & Chemicals, Deloitte Consulting GmbH**, Berlin, Germany
 
 - Technology Strategy Leadership Team and Oil, Gas & Chemcals Leadership Team
 - Industry team lead for process industries (Chemicals, Life Sciences)
@@ -108,9 +105,8 @@ Certifications	•	Professional Scrum Master
   - Assigned teams at > 70 % utilization despite COVID-19
 - Delivery management, project management, and consulting for CIO services and digital transformation
 
-**Accenture GmbH, Berlin, Germany**
-
-**Senior Manager, 2017/06 - 2018/12**
+`2017/06 - 2018/12`
+**Senior Manager, Accenture GmbH**, Berlin, Germany
 
 - Resources Industry Technology Consulting (RES TC) Leadership Team
 - Business & Practice Development
@@ -121,8 +117,8 @@ Certifications	•	Professional Scrum Master
   - New IT team grown from 4 to 21 people
 - Delivery management, project management, and consulting for CIO services and digital transformation
 
-**Deloitte Consulting GmbH, Berlin, Germany**
-**Senior Manager, 2015/05 – 2017/05**
+`2015/05 - 2017/05`
+**Senior Manager, Deloitte Consulting GmbH**, Berlin, Germany
 
 - Technology Strategy & Architecture (TS&A) Leadership Team
 - TS&A Life Sciences industry lead
@@ -135,9 +131,8 @@ Certifications	•	Professional Scrum Master
   - IoT team grown from 2 to 8 people
 - Delivery management, project management, and consulting for CIO services and digital transformation
 
-**Lodestone Management Consultants, Munich, Germany**
-
-**Principal, 2013/01 – 2015/04**
+`2013/01 - 2015/04`
+**Principal, Lodestone Management Consultants**, Munich, Germany
 
 - Business Strategy Transformation & IT Strategy Transformation
 - Business & Practice Development
@@ -147,9 +142,8 @@ Certifications	•	Professional Scrum Master
 - Project Management, Change Management
 - Consulting in Business Continuity Management, IT Risk Management, and IT Service Management
 
-**IDS Scheer AG (since 2011: IDS Scheer Consulting GmbH, part of Software AG), Saarbrücken, Germany**
-
-**Manager (from 2010/01 on, Senior Consultant before), 2006/09 – 2012/12**
+`2006/09 - 2012/12`
+**Manager (from 2010/01 on, Senior Consultant before), IDS Scheer AG (since 2011: IDS Scheer Consulting GmbH, part of Software AG)**, Saarbrücken, Germany
 
 - Business Development & Practice Development (recruiting, on-boarding, performance evaluation, counselling, service offering development)
 - Project Management

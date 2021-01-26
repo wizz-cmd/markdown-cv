@@ -1,0 +1,58 @@
+I"�<h1 id="markdown-cv">markdown-cv</h1>
+
+<p>A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.</p>
+
+<p>For more details see the <a href="http://elipapa.github.io/markdown-cv">project page</a> or the blog post on <a href="http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html">why I switched to markdown for my CV</a>.</p>
+
+<hr />
+
+<h2 id="usage">Usage</h2>
+
+<p>To start, simply <a href="https://github.com/elipapa/markdown-cv">fork the markdown-cv repo</a></p>
+
+<p><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" alt="" /></p>
+
+<p>and then <a href="https://help.github.com/articles/editing-files-in-your-repository/">edit directly in github</a> the <code class="language-plaintext highlighter-rouge">index.md</code> file</p>
+
+<p><img src="https://help.github.com/assets/images/help/repository/edit-file-edit-button.png" alt="" /></p>
+
+<p>adding your skills, jobs and education.</p>
+
+<p><img src="https://help.github.com/assets/images/help/repository/edit-readme-light.png" alt="" /></p>
+
+<p>To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:</p>
+
+<h2 id="using-github-pages-to-publish-it-online">Using Github Pages to publish it online</h2>
+
+<ol>
+  <li>Delete the existing <code class="language-plaintext highlighter-rouge">gh-pages</code> branch from your fork. It will only contain this webpage. You can either use git or <a href="https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch">the github web interface</a></li>
+  <li>Create a new branch called <code class="language-plaintext highlighter-rouge">gh-pages</code> (which will then be a copy of master)</li>
+  <li>Head to <em>yourusername</em>.github.io/markdown-cv to see your CV live.</li>
+</ol>
+
+<p>Any change you want to make to your CV from then on would have to be done on the <code class="language-plaintext highlighter-rouge">gh-pages</code> branch and will be immediately rendered by Github Pages.</p>
+
+<h2 id="build-it-locally-and-print-a-pdf">Build it locally and print a PDF</h2>
+<ol>
+  <li><a href="https://jekyllrb.com/docs/installation/">install jekyll</a> on your computer. <code class="language-plaintext highlighter-rouge">gem install jekyll</code> will do for most users.</li>
+  <li>Clone your fork on your computer</li>
+  <li>Type <code class="language-plaintext highlighter-rouge">jekyll serve</code> and you’ll be able to see your CV on your local host (the default address is http://localhost:4000).</li>
+  <li>You can edit the <code class="language-plaintext highlighter-rouge">index.md</code> file and see changes live in your browser.</li>
+  <li>To print a PDF, just press <em>Print</em>. Print and web CSS media queries should take care of the styling.</li>
+</ol>
+
+<h3 id="is-this-the-only-style-available">is this the only style available?</h3>
+
+<p>For the moment, yes.
+The included CSS renders CV in a style inspired by <a href="https://github.com/kjhealy/kjh-vita">kjhealy’s vita template</a>, but any styling is possible. Contributions and forks are welcome!</p>
+
+<h3 id="author">Author</h3>
+
+<p>Eliseo Papa (<a href="http://twitter.com/elipapa">Twitter</a>/<a href="http://github.com/elipapa">GitHub</a>/<a href="https://elipapa.github.io">website</a>).</p>
+
+<p><img src="https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100" alt="Eliseo Papa" /></p>
+
+<h3 id="license">License</h3>
+
+<p><a href="https://github.com/elipapa/markdown-cv/blob/master/LICENSE">MIT License</a></p>
+:ET

@@ -10,6 +10,7 @@ Germany<br/>
 <a href="schoemer@runbox.com">schoemer@runbox.com</a> - +49 (0) 179 421 1272<br/>
 <a href="https://www.linkedin.com/in/cschoemer">www.linkedin.com/in/cschoemer</a>
 
+![Portrait](portrait-4x3.png)
 
 ## Executive Summary
 
@@ -22,26 +23,12 @@ Always at the intersection of business and technology, Christian has 17 years of
 - Strong experience in CIO advisory and Digital / IT operating models
 - Proven record of sales success to keep assigned consulting teams at exceptional high utilization
 
-## Social Styles
-Business Chemistry Pattern: Driver, Pioneer<br/>
-Myers-Briggs Type: ENTJ<br/>
-Gallup CliftonStrengths: Achiever, Learner, Competition, Futuristic, Command
-
 ## Languages
 German (native)<br/>
 English (C1/C2)<br/>
 French (A2)<br/>
 Dutch (A2)
 	
-## Hobbies
-Running<br/>
-Cooking<br/>
-Travelling<br/>
-Kitesurfing<br/>
-Songwriting<br/>
-Further languages (basic knowledge): Arabic, Afrikaans
-
-
 ## Professional Experience
 
 ### 2019/01 - present
@@ -111,31 +98,6 @@ Further languages (basic knowledge): Arabic, Afrikaans
 - Business Development & Consulting Practice Development
 - Program Management, Consulting in Cyber Security, IT Risk Management and Business Continuity Management
 
-### Mirold & Schömer GbR
-`2000/06 - 2002/12`
-**Managing Partner**, Wadgassen, Germany<br/>
-Consulting in IT Security (Penetration Testing, IT Security Analysis, IT Security Coaching)
-
-### JET Online GmbH
-`2000/06 - 2001/07`
-**Student Assistant**, Saarbrücken, Germany<br/>
-IT Security system administration
-
-### Saarland University
-`2000/05 - 2001/04`
-**Auxiliary scientist**, Department of Computer Science, Chair of cryptography and security, Saarbrücken, Germany<br/>
-Supervision of various lectures
-
-### Mahr Multisensor GmbH
-`1999/05 - 2000/05`
-**Student Assistant**, Wadgassen, Germany<br/>
-System Administration
-
-### Max Planck Institute for Informatics
-`1999/05 - 1999/09`
-**Auxiliary scientist**, Saarbrücken, Germany<br/>
-Supervision of the software design practical course
-
 ## Project Experience (Selection)
 
 ###	Carve-out
@@ -146,35 +108,6 @@ IT Operations carve-out of network, workplace, server & storage, infrastructure 
 Focus on ensuring Business Continuity while carving out the IT infrastructure<br/>
 Delivered three months ahead of schedule
 	
-###	Digital Operations Strategy
-`2019/04 - 2019/08`
-**Project Manager & Subject Matter Expert (SME) Digital Transformation**<br/> 
-*Life Sciences, Ingelheim, Germany*<br/>
-Digital Operations Strategy for *Human Pharma* business unit covering all relevant factories and support functions<br/>
-Target design for real-time release, no-touch supply chain, paperless production and integrated quality control
-
-###	Digital Transformation
-`2017/10 - 2018/12`
-**Workstream Lead & SME Digital Transformation**<br/> 
-*Chemicals, Munich, Germany*<br/>
-Digital Operations Strategy, Digital Operating Model, Digital Architecture, Minimum Viable Product Implementations, Change Management & Sourcing Strategy for five business units covering all relevant factories and support functions<br/>
-Target design for & implementation of Digital Twin, Digital Plant, Digital Worker, Supply Chain Control Tower, Logistics Control Tower, 360 Degree Customer Journey
-	
-###	Digital Transformation
-`2016/02 - 2017/05`
-**Program Manager and SME Digital Transformation**<br/> 
-*Technology, Munich, Germany*<br/>
-Digital Operating Model, Digital Architecture, Minimum Viable Product Implementations, Change Management & Sourcing Strategy for a portfolio of 9 strategic projects to safeguard existing revenue streams, implement new revenue streams, and increase operational resilience
-- Global as-is analysis and documentation of business processes and IT landscape with regards to the client’s value chain
-- Fit/gap analysis against the client’s strategic goals and respective design of to-be business process & IT landscape
-- Transformation roadmap compilation, execution, and management 
-	
-###	Internet of Things
-`2015/10 - 2016/01`
-**SME Digital Transformation and IoT**<br/> 
-*Technology, Munich, Germany*<br/>
-Market research and trends analysis based on 3rd party analyst data and Deloitte’s point of view; Design Thinking workshops for IoT option assessment; new business model ideation *IoT Service Provider*, compiling Business Model Canvas and Minimum Viable Product; as-is analysis of the client's IoT capabilties and respective fit/gap analysis against identified options and compilation of the client's *IoT Service Provider* roadmap
-
 ###	Cyber Security
 `2015/08 - 2015/09`
 **SME Digital Transformation and Cyber Security**<br/> 
@@ -220,6 +153,9 @@ Implementation of SAP-based Supply Chain Management processes, an e-Commerce Por
 -	Emergency Response & Contingency Planning
 -	Definition of administrative project processes, assurance of compliance
 -	Procurement management (internal and external ordering processes)
+- Evacuation of consultants and teachers during Arab Spring uprisings out of Alexandria, Egypt
+- Keeping up project delivery and operations for global distributed team during Island volcano grounding flight operations
+- Op Risk, BCM and Crisis Mgmt during Saudi Arabia
 
 ### Cyber Security
 `2008/09 - 2008/12`
@@ -238,7 +174,6 @@ Design and implementation of an integrated Business Continuity Management System
 **SME Business Continuity Management**<br/> 
 *Financial Services, Saarbrücken, Germany*<br/>
 Operational support of the Business Continuity Manager and redesign of the Business Continuity Management framework, including quality control of earlier analysis (Business Impact Analysis, etc.), integration of BCM into the corporate Safety & Security Management, and coaching client personnel
-
 
 ### Business Continuity Management
 `2006/07 - 2009/01`
@@ -276,42 +211,43 @@ Several professional trainings regarding:
 Bachelor of Science, Computer Science (specialist field: *Cryptography & Security*), Saarland University, Saarbrücken, Germany<br/>
 Baccalaureate, Gymnasium Am Stadtgarten, Saarlouis, Germany
 
-
 ## BCM relevant information
 - Trusted BCM advisor for 2 DAX enterprises
 - Internal liaison between Deloitte RA and Deloitte Consulting
 - Evacuation of consultants and teachers during Arab Spring uprisings out of Alexandria, Egypt
 - Keeping up project delivery and operations for global distributed team during Island volcano grounding flight operations
 - Op Risk, BCM and Crisis Mgmt during Saudi Arabia
-- Expereinced in all phases of BCM life cycle
+- Experienced in all phases of BCM life cycle
 - Set up BCM as global function at DAX enterprise, implement processes & procedures, evaluating & compiling BC plans, recruiting and training global, regional, and local BCM personnel
 - Covid-19 management of team at Chempark Leverkusen
 - Connected Supply Chain as tactical BCM tool
 - Value Chain resilience as strategic BCM tool, extending BCM capabilities to a connected, global level - switch between process and product based BC management (e.g., medical necessary products)
 - Process based Business Impact Analysis and BC planning
+- Heidelberg Akademie
+- Mimenzug Notfallübung
 
 # Tasks/responsibilities
-•    Develop, implement and maintain a business continuity management (BCM) and related governance framework with specific focus on DBG’s subsidiary Fondcenter AG
-•    Corresponding to that, enhance the second line of defence oversight on Business and IT Operations
-•    Develop, implement and maintain an incident & crisis management process
-•    Support yearly Business Impact Analysis assessments
-•    Coordinate the execution and reporting of BCM tests
-•    Design, collect, monitor and report BCM KPI / KRI metrics 
-•    Become a trusted business advisor for BCM topics: provide guidance related to business continuity plans and interdependencies, foster awareness and facilitate a proactive involvement of business areas in business continuity management
-•    Interact with other control functions like Information Security, Outsourcing and Risk Management
-•    Provide input and support to key projects and change processes
-•    Interact with external BCM interest groups/organizations and keep abreast of changes in regulations and industry best practices
+- Develop, implement and maintain a business continuity management (BCM) and related governance framework with specific focus on DBG’s subsidiary Fondcenter AG
+- Corresponding to that, enhance the second line of defence oversight on Business and IT Operations
+- Develop, implement and maintain an incident & crisis management process
+- Support yearly Business Impact Analysis assessments
+- Coordinate the execution and reporting of BCM tests
+- Design, collect, monitor and report BCM KPI / KRI metrics 
+- Become a trusted business advisor for BCM topics: provide guidance related to business continuity plans and interdependencies, foster awareness and facilitate a proactive involvement of business areas in business continuity management
+- Interact with other control functions like Information Security, Outsourcing and Risk Management
+- Provide input and support to key projects and change processes
+- Interact with external BCM interest groups/organizations and keep abreast of changes in regulations and industry best practices
 
 # Qualifications/required skills
-•   Ideally 5 years of experience in Business Continuity Management and/or IT Service Continuity Management (incl. IT Contingency & IT Disaster Recovery Planning) – with a focus on financial services/banking/financial market infrastructure providers. 
-•    Very good knowledge of Business Continuity Management practices and protocols, including international BCM standards promoted by BCI/DR/ISO and relevant regulations (MaRisk, CSDR, CSSF 12/552, CPMI IOSCO, etc.)
-•    Good knowledge of IT infrastructure, IT & Cyber Security and operations processes of financial market infrastructure providers, including specific technical knowledge would be a plus.
-•    Good knowledge in developing and maintaining an incident & Crisis management process for (complex) matrix organisations. 
-•    Good knowledge of the operational risk profile of Deutsche Börse Group (DBG). 
-•    Excellent analytical skills, creativity, critical thinking and the ability to identify problems and propose solution
-•   Fluency in English is mandatory. German knowledge would be an asset.
+- Ideally 5 years of experience in Business Continuity Management and/or IT Service Continuity Management (incl. IT Contingency & IT Disaster Recovery Planning) – with a focus on financial services/banking/financial market infrastructure providers. 
+- Very good knowledge of Business Continuity Management practices and protocols, including international BCM standards promoted by BCI/DR/ISO and relevant regulations (MaRisk, CSDR, CSSF 12/552, CPMI IOSCO, etc.)
+- Good knowledge of IT infrastructure, IT & Cyber Security and operations processes of financial market infrastructure providers, including specific technical knowledge would be a plus.
+- Good knowledge in developing and maintaining an incident & Crisis management process for (complex) matrix organisations. 
+- Good knowledge of the operational risk profile of Deutsche Börse Group (DBG). 
+- Excellent analytical skills, creativity, critical thinking and the ability to identify problems and propose solution
+- Fluency in English is mandatory. German knowledge would be an asset.
 
 https://career.deutsche-boerse.com/job/Luxembourg-Business-Continuity-Management-Officer-%28fmd%29/623198001/
 https://www.howtomakepartner.com/business-case-for-partnership-law-firm-big-4-consulting-firm/
 
-Testcommit
+### Personal interests

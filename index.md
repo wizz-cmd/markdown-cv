@@ -14,31 +14,24 @@ Germany<br/>
 
 ## Executive Summary
 
-Christian is a member of Deloitte’s Technology Strategy & Transformation leadership team. He supports his clients in developing a future oriented digital backbone (strategy, operating model, architecture) in close collaboration with the client’s core business. This co-creation results in new digital products and services while transforming business and IT into a digital enterprise. He was also responsible for developing and leading both the Life Sciences industry practice and the IoT practice.
-
-Always at the intersection of business and technology, Christian has 17 years of experience as a consultant, practice leader, and entrepreneur. Using his deep practical knowledge in design and delivery of CIO advisory services, Internet of Things (IoT), Blockchain, Cybersecurity, and technology innovation, he has delivered a number of challenging digital enterprise transformations. Having worked for several large clients in Europe, North America, and the Middle East, Christian gained extensive international experience. Besides his focus industry sector Chemicals, Christian has worked for clients in Life Sciences, Energy, Utilities, and Technology.
-- Fifteen (15) years of project management experience, including large scale projects, international projects, and off-shore projects; intercultural experience and strong communication skills
-- Twelve (12) years of project experience in Business Process Management (BPM) and Enterprise Architecture Management, Six Sigma Greenbelt, familiar with several BPM and EAM software suites and concepts e.g., ARIS, Casewise, Symbio, Signavio, leanIX, EPC, BPMN
-- Eight (8) years of experience in the Systems Development Life Cycle (SDLC) and the management and implementation of development projects for digital products and services using different development process models, including agile methods (such as Scrum), OOA and OOD, Extreme Programming 
-- Strong experience in CIO advisory and Digital / IT operating models
-- Proven record of sales success to keep assigned consulting teams at exceptional high utilization
-
-## Languages
-German (native)<br/>
-English (C1/C2)<br/>
-French (A2)<br/>
-Dutch (A2)
+- Trusted Business Continuity Management advisor for 2 DAX enterprises
+- 15 years of experience in all phases of the BCM life cycle
+- Successfully set up BCM as new global function at DAX enterprise (implementing processes & procedures, evaluating & compiling BC plans, recruiting and training global, regional, and local BCM personnel)
 	
 ## Professional Experience
 
-### 2019/01 - present
-**Deloitte Consulting**<br/>
-***Industry Team Lead Oil, Gas & Chemicals***, Berlin, Germany
+### Deloitte Consulting
+`2019/01 - present`
+**Industry Team Lead Oil, Gas & Chemicals**, Berlin, Germany
 - Technology Strategy Leadership Team and Oil, Gas & Chemcals Leadership Team
 - Industry team lead for process industries (Chemicals, Life Sciences)
 - Industrie 4.0 & Digital Operations lead for process industries
+- Launch of *RestartNow* service offering, ensuring business continuity for site operations
 - Partner liaison for AWS Smart Factory Fabric, PTC ThingWorx, Werum
 - Contributing member of ISPE workgroup *Plug & Produce* for Pharma 4.0
+- *COVID-19* related incident & crisis management of consulting teams at Chempark Leverkusen
+- Launch of *Connected Supply Chain*, a tactical BCM tool to manage business continuity incidents throughout global supply chains
+- Internal liaison between Deloitte Risk Advisory and Deloitte Consulting to coordinate Business Continuity Management engagements
 - Delivery management, project management, and consulting for CIO advisory and digital transformation
 - *Business & Practice Development:* 
   - Annual sales: > 4 Mio. EUR
@@ -58,7 +51,7 @@ Dutch (A2)
   - Annual managed revenue: > 2 Mio. EUR
   - Recruiting, on-boarding, performance evaluation, counselling
   - Service offering development *New IT*
-  - New IT team grown from 4 to 21 people
+  - *New IT* team grown from 4 to 21 people
 
 ### Deloitte Consulting
 `2015/05 - 2017/05`
@@ -66,6 +59,7 @@ Dutch (A2)
 - Technology Strategy & Architecture (TS&A) Leadership Team
 - TS&A Life Sciences industry lead
 - TS&A Internet of Things (IoT) cluster lead
+- Launch of *Value Chain Resilience* as strategic BCM tool, extending BCM capabilities from local site focus to a connected, global level - both process and product based BC management (e.g., life-saving medicines)
 - Delivery management, project management, and consulting for CIO services and digital transformation
 - *Business & Practice Development:*
   - Annual sales: > 2 Mio. EUR 
@@ -87,8 +81,12 @@ Dutch (A2)
 ### IDS Scheer
 `2006/09 - 2012/12`
 **Manager** (from 2010/01 on, Senior Consultant before), Saarbrücken, Germany
-- Project Management, Consulting in Business Process Management, Enterprise Architecture Management, IT Governance, Risk & Compliance, IT Risk Management, IT Security Management, IT Service Management, and Business Continuity Management
+- Responsible for BCM, Security, and Crisis Management during project assignment in Saudi Arabia (2,5 years, 140 consultans, 11 country organizations)
+- Evacuation of consultants and teachers during Arab Spring uprisings out of Alexandria, Egypt
+- Ensuring business continuity and keeping up project delivery and operations for global distributed team during Eyjafjallajökull eruption grounding flight operations
 - Global Champion GRC, professional leadership in Business Continuity Management (BCM) and IT Risk Management, leveraging BCM project results for ARIS GRC
+- Development of process based Business Impact Analysis and BC planning, launched with new ARIS product release
+- Project Management, Consulting in Business Process Management, Enterprise Architecture Management, IT Governance, Risk & Compliance, IT Risk Management, IT Security Management, IT Service Management, and Business Continuity Management
 - Business Development & Practice Development (recruiting, on-boarding, performance evaluation, counselling, service offering development)
 
 ### inoplex AG
@@ -195,57 +193,40 @@ Risk analysis of various technical processes based on the *IT-Grundschutz* manua
 - Development of a policy management system for the centralized creation, maintenance and distribution of policies, taking into account various areas of validity
 - Development of reverse-proxy, web application firewall
 
-## Professional Education
-Several professional trainings regarding:
-- Leadership
-- Sales
-- Recruiting
-- Negotiating
-- Conflict Management
-- Project Management
-- Change Management
-- Data Privacy
-- IT Management (incl. Certified Scrum Master & ITIL Foundation certifications)
-	
+## Languages
+German (native)<br/>
+English (C1/C2)<br/>
+French (A2)<br/>
+Dutch (A2)
+
 ## Education
 Bachelor of Science, Computer Science (specialist field: *Cryptography & Security*), Saarland University, Saarbrücken, Germany<br/>
 Baccalaureate, Gymnasium Am Stadtgarten, Saarlouis, Germany
 
 ## BCM relevant information
-- Trusted BCM advisor for 2 DAX enterprises
-- Internal liaison between Deloitte RA and Deloitte Consulting
-- Evacuation of consultants and teachers during Arab Spring uprisings out of Alexandria, Egypt
-- Keeping up project delivery and operations for global distributed team during Island volcano grounding flight operations
-- Op Risk, BCM and Crisis Mgmt during Saudi Arabia
-- Experienced in all phases of BCM life cycle
-- Set up BCM as global function at DAX enterprise, implement processes & procedures, evaluating & compiling BC plans, recruiting and training global, regional, and local BCM personnel
-- Covid-19 management of team at Chempark Leverkusen
-- Connected Supply Chain as tactical BCM tool
-- Value Chain resilience as strategic BCM tool, extending BCM capabilities to a connected, global level - switch between process and product based BC management (e.g., medical necessary products)
-- Process based Business Impact Analysis and BC planning
 - Heidelberg Akademie
 - Mimenzug Notfallübung
 
 # Tasks/responsibilities
-- Develop, implement and maintain a business continuity management (BCM) and related governance framework with specific focus on DBG’s subsidiary Fondcenter AG
+- **OK** Develop, implement and maintain a business continuity management (BCM) and related governance framework with specific focus on DBG’s subsidiary Fondcenter AG
 - Corresponding to that, enhance the second line of defence oversight on Business and IT Operations
-- Develop, implement and maintain an incident & crisis management process
-- Support yearly Business Impact Analysis assessments
-- Coordinate the execution and reporting of BCM tests
+- **OK** Develop, implement and maintain an incident & crisis management process
+- **OK** Support yearly Business Impact Analysis assessments
+- **OK** Coordinate the execution and reporting of BCM tests
 - Design, collect, monitor and report BCM KPI / KRI metrics 
-- Become a trusted business advisor for BCM topics: provide guidance related to business continuity plans and interdependencies, foster awareness and facilitate a proactive involvement of business areas in business continuity management
-- Interact with other control functions like Information Security, Outsourcing and Risk Management
-- Provide input and support to key projects and change processes
-- Interact with external BCM interest groups/organizations and keep abreast of changes in regulations and industry best practices
+- **OK** Become a trusted business advisor for BCM topics: provide guidance related to business continuity plans and interdependencies, foster awareness and facilitate a proactive involvement of business areas in business continuity management
+- **OK** Interact with other control functions like Information Security, Outsourcing and Risk Management
+- **OK** Provide input and support to key projects and change processes
+- **OK** Interact with external BCM interest groups/organizations and keep abreast of changes in regulations and industry best practices
 
 # Qualifications/required skills
-- Ideally 5 years of experience in Business Continuity Management and/or IT Service Continuity Management (incl. IT Contingency & IT Disaster Recovery Planning) – with a focus on financial services/banking/financial market infrastructure providers. 
+- **OK** Ideally 5 years of experience in Business Continuity Management and/or IT Service Continuity Management (incl. IT Contingency & IT Disaster Recovery Planning) – with a focus on financial services/banking/financial market infrastructure providers. 
 - Very good knowledge of Business Continuity Management practices and protocols, including international BCM standards promoted by BCI/DR/ISO and relevant regulations (MaRisk, CSDR, CSSF 12/552, CPMI IOSCO, etc.)
 - Good knowledge of IT infrastructure, IT & Cyber Security and operations processes of financial market infrastructure providers, including specific technical knowledge would be a plus.
-- Good knowledge in developing and maintaining an incident & Crisis management process for (complex) matrix organisations. 
+- **OK** Good knowledge in developing and maintaining an incident & Crisis management process for (complex) matrix organisations. 
 - Good knowledge of the operational risk profile of Deutsche Börse Group (DBG). 
-- Excellent analytical skills, creativity, critical thinking and the ability to identify problems and propose solution
-- Fluency in English is mandatory. German knowledge would be an asset.
+- **OK** Excellent analytical skills, creativity, critical thinking and the ability to identify problems and propose solution
+- **OK** Fluency in English is mandatory. German knowledge would be an asset.
 
 https://career.deutsche-boerse.com/job/Luxembourg-Business-Continuity-Management-Officer-%28fmd%29/623198001/
 https://www.howtomakepartner.com/business-case-for-partnership-law-firm-big-4-consulting-firm/

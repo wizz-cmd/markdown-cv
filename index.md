@@ -14,9 +14,11 @@ Germany<br/>
 
 ## Executive Summary
 
-- Trusted Business Continuity Management advisor for 2 DAX enterprises
+- Trusted Business Continuity Management advisor for 2 DAX enterprises (Energy Trading, Life Sciences)
 - 15 years of experience in all phases of the BCM life cycle
+- Applied common standards and good practices e.g., BS 25999, ISO 22313, German BSI Standard 100-4, BCI Good Practice Guidelines
 - Successfully set up BCM as new global function at DAX enterprise (implementing processes & procedures, evaluating & compiling BC plans, recruiting and training global, regional, and local BCM personnel)
+- Activated BC plans and personally managed both BC incidents and crisis events
 	
 ## Professional Experience
 
@@ -33,6 +35,7 @@ Germany<br/>
 - Launch of *Connected Supply Chain*, a tactical BCM tool to manage business continuity incidents throughout global supply chains
 - Internal liaison between Deloitte Risk Advisory and Deloitte Consulting to coordinate Business Continuity Management engagements
 - Delivery management, project management, and consulting for CIO advisory and digital transformation
+- *Project reference:* Carve-out, Project Manager, Chemicals, Leverkusen, Germany - IT Operations carve-out of network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes as critical element of a high priority, high visibility M&A project, total business value > 2,5 B EUR while ensuring Business Continuity
 - *Business & Practice Development:* 
   - Annual sales: > 4 Mio. EUR
   - Annual managed revenue: > 2 Mio. EUR
@@ -45,7 +48,7 @@ Germany<br/>
 `2017/06 - 2018/12`
 **Senior Manager**, Berlin, Germany
 - Resources Industry Technology Consulting Leadership Team
-- Delivery management, project management, and consulting for CIO services and digital transformation
+- Delivery management, project management, and consulting for CIO advisory and digital transformation
 - *Business & Practice Development:*
   - Annual sales: > 10 Mio. EUR
   - Annual managed revenue: > 2 Mio. EUR
@@ -61,6 +64,7 @@ Germany<br/>
 - TS&A Internet of Things (IoT) cluster lead
 - Launch of *Value Chain Resilience* as strategic BCM tool, extending BCM capabilities from local site focus to a connected, global level - both process and product based BC management (e.g., life-saving medicines)
 - Delivery management, project management, and consulting for CIO services and digital transformation
+- *Project reference:* Business Continuity Management, Program Manager and SME Business Continuity Management, Life Sciences, Leverkusen, Germany - Impact study of a wide area power outage in Germany’s Rhine-Ruhr metropolitan area on the global value chain of blockbuster products including life-saving medicines (*medically necessary drug products*)
 - *Business & Practice Development:*
   - Annual sales: > 2 Mio. EUR 
   - Annual managed revenue: > 1 Mio. EUR
@@ -73,6 +77,7 @@ Germany<br/>
 **Principal**, Munich, Germany
 - Business Strategy Transformation & IT Strategy Transformation
 - Project Management, Change Management, Consulting in Business Continuity Management, IT Risk Management, and IT Service Management
+- *Project reference:* Business Continuity Management, Program Manager and SME Business Continuity Management, Life Sciences, Leverkusen, Germany - Initiation, pilot, and execution of a global Business Continuity Management Program, implementating the global function *Business Continuity Management* as part of the client's Enterprise Risk Management
 - *Business & Practice Development:*
   - Annual sales: ~ 1 Mio. EUR
   - Annual managed revenue: ~ 0,5 Mio. EUR
@@ -98,13 +103,7 @@ Germany<br/>
 
 ## Project Experience (Selection)
 
-###	Carve-out
-`2019/09 - 2020/12`
-**Project Manager**<br/> 
-*Chemicals, Leverkusen, Germany*<br/>
-IT Operations carve-out of network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes as critical element of a high priority, high visibility M&A project, total business value > 2,5 B EUR<br/>
-Focus on ensuring Business Continuity while carving out the IT infrastructure<br/>
-Delivered three months ahead of schedule
+
 	
 ###	Cyber Security
 `2015/08 - 2015/09`
@@ -112,16 +111,7 @@ Delivered three months ahead of schedule
 *Technology, Munich, Germany*<br/>
 Market research and trends analysis based on 3rd party analyst data and Deloitte’s point of view; as-is analysis of the client's current Cyber Security services portfolio and respective fit/gap analysis against identified trends; realignment of the Cyber Security services portfolio and respective roadmap
 	
-###	Business Continuity Management
-`2015/05 - 2016/12`
-**Program Manager and SME Business Continuity Management**<br/> 
-*Life Sciences, Leverkusen, Germany*<br/>
-Impact study of a wide area power outage in Germany’s Rhine-Ruhr metropolitan area on the global value chain of blockbuster products including life-saving medicines (*medically necessary drug products*)
--	Value Chain analysis and scenario simulations
--	Adaption of existing Business Impact Analysis methodology to the requirements of a global end-to-end process
--	Impact assessments along all steps of the value chains
--	Business process redesign to implement successful practices for future roll-out to all medically necessary or economically significant products
--	CxO report and presentation
+
 
 ### Business Continuity Management
 `2012/02 - 2015/06`

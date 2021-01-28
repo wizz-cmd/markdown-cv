@@ -142,28 +142,27 @@ Supervision of the software design practical course
 `2019/09 - 2020/12`
 **Project Manager**<br/> 
 *Chemicals, Leverkusen, Germany*<br/>
-IT Operations carve-out of network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes<br/>
-High priority, high visibility M&A project with a total business value of more than 2,5 B EUR<br/>
+IT Operations carve-out of network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes as critical element of a high priority, high visibility M&A project, total business value > 2,5 B EUR<br/>
 Focus on ensuring Business Continuity while carving out the IT infrastructure<br/>
 Delivered three months ahead of schedule
 	
 ###	Digital Operations Strategy
-`2019/04 - 2020/08`
-**Project Manager & Subject Matter Expert Digital Transformation**<br/> 
+`2019/04 - 2019/08`
+**Project Manager & Subject Matter Expert (SME) Digital Transformation**<br/> 
 *Life Sciences, Ingelheim, Germany*<br/>
 Digital Operations Strategy for *Human Pharma* business unit covering all relevant factories and support functions<br/>
 Target design for real-time release, no-touch supply chain, paperless production and integrated quality control
 
 ###	Digital Transformation
 `2017/10 - 2018/12`
-**Workstream Lead & Subject Matter Expert Digital Transformation**<br/> 
+**Workstream Lead & SME Digital Transformation**<br/> 
 *Chemicals, Munich, Germany*<br/>
 Digital Operations Strategy, Digital Operating Model, Digital Architecture, Minimum Viable Product Implementations, Change Management & Sourcing Strategy for five business units covering all relevant factories and support functions<br/>
 Target design for & implementation of Digital Twin, Digital Plant, Digital Worker, Supply Chain Control Tower, Logistics Control Tower, 360 Degree Customer Journey
 	
 ###	Digital Transformation
 `2016/02 - 2017/05`
-**Program Manager and Subject Matter Expert Digital Transformation**<br/> 
+**Program Manager and SME Digital Transformation**<br/> 
 *Technology, Munich, Germany*<br/>
 Digital Operating Model, Digital Architecture, Minimum Viable Product Implementations, Change Management & Sourcing Strategy for a portfolio of 9 strategic projects to safeguard existing revenue streams, implement new revenue streams, and increase operational resilience
 - Global as-is analysis and documentation of business processes and IT landscape with regards to the client’s value chain
@@ -172,19 +171,19 @@ Digital Operating Model, Digital Architecture, Minimum Viable Product Implementa
 	
 ###	Internet of Things
 `2015/10 - 2016/01`
-**Subject Matter Expert Digital Transformation and IoT**<br/> 
+**SME Digital Transformation and IoT**<br/> 
 *Technology, Munich, Germany*<br/>
 Market research and trends analysis based on 3rd party analyst data and Deloitte’s point of view; Design Thinking workshops for IoT option assessment; new business model ideation *IoT Service Provider*, compiling Business Model Canvas and Minimum Viable Product; as-is analysis of the client's IoT capabilties and respective fit/gap analysis against identified options and compilation of the client's *IoT Service Provider* roadmap
 
 ###	Cyber Security
 `2015/08 - 2015/09`
-**Subject Matter Expert Digital Transformation and Cyber Security**<br/> 
+**SME Digital Transformation and Cyber Security**<br/> 
 *Technology, Munich, Germany*<br/>
 Market research and trends analysis based on 3rd party analyst data and Deloitte’s point of view; as-is analysis of the client's current Cyber Security services portfolio and respective fit/gap analysis against identified trends; realignment of the Cyber Security services portfolio and respective roadmap
 	
 ###	Business Continuity Management
 `2015/05 - 2016/12`
-**Program Manager and Subject Matter Expert Business Continuity Management**<br/> 
+**Program Manager and SME Business Continuity Management**<br/> 
 *Life Sciences, Leverkusen, Germany*<br/>
 Impact study of a wide area power outage in Germany’s Rhine-Ruhr metropolitan area on the global value chain of blockbuster products including life-saving medicines (*medically necessary drug products*)
 -	Value Chain analysis and scenario simulations
@@ -195,7 +194,7 @@ Impact study of a wide area power outage in Germany’s Rhine-Ruhr metropolitan 
 
 ### Business Continuity Management
 `2012/02 - 2015/06`
-**Program Manager and Subject Matter Expert Business Continuity Management**<br/> 
+**Program Manager and SME Business Continuity Management**<br/> 
 *Life Sciences, Leverkusen, Germany*<br/>
 Initiation, pilot, and roll-out of a global Business Continuity Management Program:
 -	Scope definition for a new BCM program focusing on IT related BCM requirements
@@ -208,7 +207,7 @@ Initiation, pilot, and roll-out of a global Business Continuity Management Progr
 
 ###	Supply Chain Management
 `2009/02 - 2011/07`
-**Head of PMO and Subject Matter Expert Project Management**<br/> 
+**Head of PMO and SME Project Management**<br/> 
 *Chemicals, Riyadh, Saudi Arabia*<br/>
 Implementation of SAP-based Supply Chain Management processes, an e-Commerce Portal, and a Business Intelligence Platform
 - Project Management Office, Change Management
@@ -222,24 +221,42 @@ Implementation of SAP-based Supply Chain Management processes, an e-Commerce Por
 -	Definition of administrative project processes, assurance of compliance
 -	Procurement management (internal and external ordering processes)
 
-### Business Continuity Management
-`2008/01 - 2008/07`
-**Head of PMO and Subject Matter Expert Project Management**<br/> 
-*Energy Trading, Düsseldorf, Germany*<br/>
-Implementation of SAP-based Supply Chain Management processes, an e-Commerce Portal, and a Business Intelligence Platform
+### Cyber Security
+`2008/09 - 2008/12`
+**SME Cyber Security**<br/> 
+*German Federal Armed Forces, Bonn, Germany*<br/>
+Design of client specific adaptions of ITIL V3 processes *IT Service Continuity Management* and *Information Security Management* based on ISO 27001 and IT-Grundschutz (BSI)
 
 ### Business Continuity Management
-`2009/02 - 2011/07`
-**Head of PMO and Subject Matter Expert Project Management**<br/> 
+`2008/01 - 2008/07`
+**Head of PMO and SME Project Management**<br/> 
+*Energy Trading, Düsseldorf, Germany*<br/>
+Design and implementation of an integrated Business Continuity Management System (BCMS) according to BS 25999 followed by the European wide integration of 9 market units into the newly set-up, central BCMS while supporting and coaching the BCM team
+
+### Business Continuity Management
+`2007/10 - 2007/12`
+**SME Business Continuity Management**<br/> 
+*Financial Services, Saarbrücken, Germany*<br/>
+Operational support of the Business Continuity Manager and redesign of the Business Continuity Management framework, including quality control of earlier analysis (Business Impact Analysis, etc.), integration of BCM into the corporate Safety & Security Management, and coaching client personnel
+
+
+### Business Continuity Management
+`2006/07 - 2009/01`
+**Deputy Business Continuity Manager & Program Manager**<br/> 
 *Energy Trading, Munich, Germany*<br/>
-Implementation of SAP-based Supply Chain Management processes, an e-Commerce Portal, and a Business Intelligence Platform
+Design and implementation of an integrated Business Continuity Management System (BCMS) followed by operational support and redesign of the Business Continuity Management framework acting as Deputy Business Continuity Manager during an enterprise restructuring
+-	Supporting and coaching the Business Continuity Manager
+- Fit/gap analysis of current BCM processes against good practices
+-	Design and implementation of a customized software solution for the ARIS Business Architect to support and perform BCM activities (Business Impact Analysis, qualitative and quantitative Risk Analysis, automatic creation of emergency response plans) 
+-	Preparation, execution and debriefing of emergency exercises
+-	Design and implementation of an incident & crisis management process followed by the integration of BCM into the corporate Risk Management
 
 ### Cyber Security
 `2004/06 - 2005/12`
-**Project Manager and Subject Matter Expert Cyber Security**<br/> 
+**Project Manager and SME Cyber Security**<br/> 
 *Public Sector, German State Capital*<br/>
 Risk analysis of various technical processes based on the *IT-Grundschutz* manual, ISO 17799 and self-developed procedures; implementation of an IT risk management process based on *IT-Grundschutz* methodology, ISO 17799 and ITIL; ongoing Cyber Security advisory, including:
-- Ensuring Business Continuity of a European Union IT Service in face of cyber attack
+- Ensuring Business Continuity of a European Union IT Service while under cyber attack
 - Development of a policy management system for the centralized creation, maintenance and distribution of policies, taking into account various areas of validity
 - Development of reverse-proxy, web application firewall
 

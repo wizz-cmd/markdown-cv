@@ -77,95 +77,15 @@ Germany<br/>
 Consulting in Cyber Security, IT Risk Management and Business Continuity Management
 
 ## Business Continuity Management Assignments / Projects (Selection)
-`Energy Trading, Düsseldorf, Germany`
-Design and implementation of an integrated Business Continuity Management System (BCMS) according to BS 25999 followed by the European wide integration of 9 market units into the newly set-up, central BCMS while supporting and coaching the BCM team
+
+`Life Sciences, Leverkusen, Germany`
+Initiation, pilot, and roll-out of a global Business Continuity Management Program based on custom developed methodology, processes, and tools to enable business units (> 150 entities) to implement all phases of the BCM life cycle & transitioning BCM program to newly implemented global function *Business Continuity Management* as part of the client's Enterprise Risk Management
 
 `Financial Services, Saarbrücken, Germany`
 Operational support of the Business Continuity Manager and redesign of the Business Continuity Management framework, including quality control of earlier analysis (Business Impact Analysis, etc.), integration of BCM into the corporate Safety & Security Management, and coaching client personnel
 
-`Energy Trading, Munich, Germany`
+`Energy Trading, Düsseldorf & Munich, Germany`
 Design and implementation of an integrated Business Continuity Management System (BCMS) followed by operational support and redesign of the Business Continuity Management framework acting as Deputy Business Continuity Manager during an enterprise restructuring
-
-
-## Project Experience (Selection)
-
-###	Cyber Security
-`2015/08 - 2015/09`
-**SME Digital Transformation and Cyber Security**<br/> 
-*Technology, Munich, Germany*<br/>
-Market research and trends analysis based on 3rd party analyst data and Deloitte’s point of view; as-is analysis of the client's current Cyber Security services portfolio and respective fit/gap analysis against identified trends; realignment of the Cyber Security services portfolio and respective roadmap
-	
-
-
-### Business Continuity Management
-`2012/02 - 2015/06`
-**Program Manager and SME Business Continuity Management**<br/> 
-*Life Sciences, Leverkusen, Germany*<br/>
-Initiation, pilot, and roll-out of a global Business Continuity Management Program:
--	Scope definition for a new BCM program focusing on IT related BCM requirements
--	Stakeholder analysis and securing management board support 
--	Develop and pilot methodology, processes, and tools to enable business units to implement all phases of the BCM life cycle
--	Design and implementation of a global BCM governance
--	Recruitment and build-up of a global BCM team and several local BCM pilot teams
--	Roll-out to > 150 entities to perform Business Impact Analysis and Business Continuity Planning according to previously defined methodology
-- Implementation of the global function *Business Continuity Management* as part of the client's Enterprise Risk Management
-
-###	Supply Chain Management
-`2009/02 - 2011/07`
-**Head of PMO and SME Project Management**<br/> 
-*Chemicals, Riyadh, Saudi Arabia*<br/>
-Implementation of SAP-based Supply Chain Management processes, an e-Commerce Portal, and a Business Intelligence Platform
-- Project Management Office, Change Management
--	Project planning and project controlling (62.000 consulting days, 11 country subsidiaries)
--	Risk management and issue management
--	Scope management (change requests, etc.)
--	Support and coaching of project managers
--	Further development of project management methods
--	Resource management (recruitment, staffing, onboarding, support)
--	Emergency Response & Contingency Planning
--	Definition of administrative project processes, assurance of compliance
--	Procurement management (internal and external ordering processes)
-- Evacuation of consultants and teachers during Arab Spring uprisings out of Alexandria, Egypt
-- Keeping up project delivery and operations for global distributed team during Island volcano grounding flight operations
-- Op Risk, BCM and Crisis Mgmt during Saudi Arabia
-
-### Cyber Security
-`2008/09 - 2008/12`
-**SME Cyber Security**<br/> 
-*German Federal Armed Forces, Bonn, Germany*<br/>
-Design of client specific adaptions of ITIL V3 processes *IT Service Continuity Management* and *Information Security Management* based on ISO 27001 and IT-Grundschutz (BSI)
-
-### Business Continuity Management
-`2008/01 - 2008/07`
-**Head of PMO and SME Project Management**<br/> 
-*Energy Trading, Düsseldorf, Germany*<br/>
-Design and implementation of an integrated Business Continuity Management System (BCMS) according to BS 25999 followed by the European wide integration of 9 market units into the newly set-up, central BCMS while supporting and coaching the BCM team
-
-### Business Continuity Management
-`2007/10 - 2007/12`
-**SME Business Continuity Management**<br/> 
-*Financial Services, Saarbrücken, Germany*<br/>
-Operational support of the Business Continuity Manager and redesign of the Business Continuity Management framework, including quality control of earlier analysis (Business Impact Analysis, etc.), integration of BCM into the corporate Safety & Security Management, and coaching client personnel
-
-### Business Continuity Management
-`2006/07 - 2009/01`
-**Deputy Business Continuity Manager & Program Manager**<br/> 
-*Energy Trading, Munich, Germany*<br/>
-Design and implementation of an integrated Business Continuity Management System (BCMS) followed by operational support and redesign of the Business Continuity Management framework acting as Deputy Business Continuity Manager during an enterprise restructuring
--	Supporting and coaching the Business Continuity Manager
-- Fit/gap analysis of current BCM processes against good practices
--	Design and implementation of a customized software solution for the ARIS Business Architect to support and perform BCM activities (Business Impact Analysis, qualitative and quantitative Risk Analysis, automatic creation of emergency response plans) 
--	Preparation, execution and debriefing of emergency exercises
--	Design and implementation of an incident & crisis management process followed by the integration of BCM into the corporate Risk Management
-
-### Cyber Security
-`2004/06 - 2005/12`
-**Project Manager and SME Cyber Security**<br/> 
-*Public Sector, German State Capital*<br/>
-Risk analysis of various technical processes based on the *IT-Grundschutz* manual, ISO 17799 and self-developed procedures; implementation of an IT risk management process based on *IT-Grundschutz* methodology, ISO 17799 and ITIL; ongoing Cyber Security advisory, including:
-- Ensuring Business Continuity of a European Union IT Service while under cyber attack
-- Development of a policy management system for the centralized creation, maintenance and distribution of policies, taking into account various areas of validity
-- Development of reverse-proxy, web application firewall
 
 ## Languages
 German (native)<br/>

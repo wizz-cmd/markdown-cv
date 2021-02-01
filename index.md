@@ -19,6 +19,7 @@ Germany<br/>
 - Applied common standards and good practices e.g., BS 25999, ISO 22313, German BSI Standard 100-4, BCI Good Practice Guidelines
 - Successfully set up BCM as new global function at DAX enterprise (implementing processes & procedures, evaluating & compiling BC plans, recruiting and training global, regional, and local BCM personnel)
 - Activated BC plans and personally managed both BC incidents and crisis events
+- Extended tenures abroad (Middle East, Netherlands) and global project assignments
 	
 ## Professional Experience
 
@@ -32,7 +33,7 @@ Germany<br/>
 - *COVID-19* related incident & crisis management of consulting teams at Chempark Leverkusen
 - Launch of *Connected Supply Chain*, a tactical BCM tool to manage business continuity incidents throughout global supply chains
 - Internal liaison between Deloitte Risk Advisory and Deloitte Consulting to coordinate Business Continuity Management engagements
-- *Project reference:* Carve-out, Project Manager, Chemicals, Leverkusen, Germany - IT Operations carve-out of network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes as critical element of a high priority, high visibility M&A project, total business value > 2,5 B EUR while ensuring Business Continuity
+- *Project reference:* Carve-out, Project Manager, Chemicals, Leverkusen, Germany - IT Operations carve-out of network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes as critical element of a high priority, high visibility M&A project, total business value > 2.5 B EUR while ensuring Business Continuity
 
 ### Accenture
 `2017/06 - 2018/12`
@@ -55,58 +56,39 @@ Germany<br/>
 ### Lodestone Management Consultants
 `2013/01 - 2015/04`
 **Principal**, Munich, Germany
-- Annual sales ~ 1 M EUR, annual managed revenue ~ 0,5 M EUR, recruiting, on-boarding, performance evaluation, counselling
+- Annual sales ~ 1 M EUR, annual managed revenue ~ 0.5 M EUR, recruiting, on-boarding, performance evaluation, counselling
 - Consulting in Business Continuity Management, IT Risk Management, and IT Service Management
 - *Project reference:* Business Continuity Management, Program Manager and SME Business Continuity Management, Life Sciences, Leverkusen, Germany - Initiation, pilot, and execution of a global Business Continuity Management Program, implementating the global function *Business Continuity Management* as part of the client's Enterprise Risk Management
 
 ### IDS Scheer
 `2006/09 - 2012/12`
 **Manager** (from 2010/01 on, Senior Consultant before), Saarbrücken, Germany
-- Responsible for BCM, Security, and Crisis Management during project assignment in Saudi Arabia (2,5 years, 140 consultans, 11 country organizations)
+- Responsible for BCM, Security, and Crisis Management during project assignment in Saudi Arabia (2.5 years, 140 consultants, 11 country organizations)
 - Evacuation of consultants and teachers during Arab Spring uprisings out of Alexandria, Egypt
 - Ensuring business continuity and keeping up project delivery and operations for global distributed team during Eyjafjallajökull eruption grounding flight operations
-- Global Champion GRC, professional leadership in Business Continuity Management (BCM) and IT Risk Management, leveraging BCM project results for ARIS GRC
-- Development of process based Business Impact Analysis and BC planning, launched with new ARIS product release
-- Project Management, Consulting in Business Process Management, Enterprise Architecture Management, IT Governance, Risk & Compliance, IT Risk Management, IT Security Management, IT Service Management, and Business Continuity Management
-- Business Development & Practice Development (recruiting, on-boarding, performance evaluation, counselling, service offering development)
-- *Project references:*
-  - Supply Chain Management, Head of PMO and SME Project Management, Chemicals, Riyadh, Saudi Arabia - Implementation of SAP-based Supply Chain Management processes, an e-Commerce Portal, and a Business Intelligence Platform; responsible for Project Management Office, change management, risk management and issue management, emergency response & contingency planning, evacuation of consultants and teachers during Arab Spring uprisings out of Alexandria, Egypt, keeping up project delivery and operations for global distributed team during Eyjafjallajökull eruption grounding flight operations
-  - Cyber Security, SME Cyber Security, *German Federal Armed Forces, Bonn, Germany* - Design of client specific adaptions of ITIL V3 processes *IT Service Continuity Management* and *Information Security Management* based on ISO 27001 and IT-Grundschutz (BSI)
 
-### Business Continuity Management
-`2008/01 - 2008/07`
-**Head of PMO and SME Project Management**<br/> 
-*Energy Trading, Düsseldorf, Germany*<br/>
-Design and implementation of an integrated Business Continuity Management System (BCMS) according to BS 25999 followed by the European wide integration of 9 market units into the newly set-up, central BCMS while supporting and coaching the BCM team
-
-### Business Continuity Management
-`2007/10 - 2007/12`
-**SME Business Continuity Management**<br/> 
-*Financial Services, Saarbrücken, Germany*<br/>
-Operational support of the Business Continuity Manager and redesign of the Business Continuity Management framework, including quality control of earlier analysis (Business Impact Analysis, etc.), integration of BCM into the corporate Safety & Security Management, and coaching client personnel
-
-### Business Continuity Management
-`2006/07 - 2009/01`
-**Deputy Business Continuity Manager & Program Manager**<br/> 
-*Energy Trading, Munich, Germany*<br/>
-Design and implementation of an integrated Business Continuity Management System (BCMS) followed by operational support and redesign of the Business Continuity Management framework acting as Deputy Business Continuity Manager during an enterprise restructuring
--	Supporting and coaching the Business Continuity Manager
-- Fit/gap analysis of current BCM processes against good practices
--	Design and implementation of a customized software solution for the ARIS Business Architect to support and perform BCM activities (Business Impact Analysis, qualitative and quantitative Risk Analysis, automatic creation of emergency response plans) 
--	Preparation, execution and debriefing of emergency exercises
--	Design and implementation of an incident & crisis management process followed by the integration of BCM into the corporate Risk Management
+- Global Champion GRC, professional leadership in Business Continuity Management (BCM) and IT Risk Management, 
+- Development of process based Business Impact Analysis and BC planning as part of ARIS product suite
+- Consulting in Business Process Management, Enterprise Architecture Management, IT Risk Management, and Business Continuity Management
 
 ### inoplex AG
 `2003/01 - 2006/07`
-**Founder, Board Member, CEO** (from 2005/07 on), Saarbrücken, Germany
-- Head of sales, Delivery, and HR
-- Business Development & Consulting Practice Development
-- Program Management, Consulting in Cyber Security, IT Risk Management and Business Continuity Management
+**Founder, Board Member, CEO** (from 2005/07 on), Saarbrücken, Germany<br/>
+Consulting in Cyber Security, IT Risk Management and Business Continuity Management
+
+## Business Continuity Management Assignments / Projects (Selection)
+`Energy Trading, Düsseldorf, Germany`
+Design and implementation of an integrated Business Continuity Management System (BCMS) according to BS 25999 followed by the European wide integration of 9 market units into the newly set-up, central BCMS while supporting and coaching the BCM team
+
+`Financial Services, Saarbrücken, Germany`
+Operational support of the Business Continuity Manager and redesign of the Business Continuity Management framework, including quality control of earlier analysis (Business Impact Analysis, etc.), integration of BCM into the corporate Safety & Security Management, and coaching client personnel
+
+`Energy Trading, Munich, Germany`
+Design and implementation of an integrated Business Continuity Management System (BCMS) followed by operational support and redesign of the Business Continuity Management framework acting as Deputy Business Continuity Manager during an enterprise restructuring
+
 
 ## Project Experience (Selection)
 
-
-	
 ###	Cyber Security
 `2015/08 - 2015/09`
 **SME Digital Transformation and Cyber Security**<br/> 

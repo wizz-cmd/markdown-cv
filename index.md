@@ -25,63 +25,39 @@ Germany<br/>
 ### Deloitte Consulting
 `2019/01 - present`
 **Industry Team Lead Oil, Gas & Chemicals**, Berlin, Germany
-- Technology Strategy Leadership Team and Oil, Gas & Chemcals Leadership Team
-- Industry team lead for process industries (Chemicals, Life Sciences)
-- Industrie 4.0 & Digital Operations lead for process industries
+- Annual sales > 4 M EUR, annual managed revenue > 3 M EUR
+- Account management for one of Deloitte‘s priority Chemicals and one of Deloitte‘s priority Life Sciences accounts, account teams grown from 3 to 17 people
+- Recruiting, on-boarding, performance evaluation, counseling - assigned teams at > 70 % utilization despite COVID-19
 - Launch of *RestartNow* service offering, ensuring business continuity for site operations
-- Partner liaison for AWS Smart Factory Fabric, PTC ThingWorx, Werum
-- Contributing member of ISPE workgroup *Plug & Produce* for Pharma 4.0
 - *COVID-19* related incident & crisis management of consulting teams at Chempark Leverkusen
 - Launch of *Connected Supply Chain*, a tactical BCM tool to manage business continuity incidents throughout global supply chains
 - Internal liaison between Deloitte Risk Advisory and Deloitte Consulting to coordinate Business Continuity Management engagements
-- Delivery management, project management, and consulting for CIO advisory and digital transformation
 - *Project reference:* Carve-out, Project Manager, Chemicals, Leverkusen, Germany - IT Operations carve-out of network, workplace, server & storage, infrastructure applications, collaboration platform, document management, SAP etc. and related IT operations processes as critical element of a high priority, high visibility M&A project, total business value > 2,5 B EUR while ensuring Business Continuity
-- *Business & Practice Development:* 
-  - Annual sales: > 4 Mio. EUR
-  - Annual managed revenue: > 2 Mio. EUR
-  - Account management for one of Deloitte‘s priority Chemicals and one of Deloitte‘s priority Life Sciences accounts
-  - Account teams grown from 3 to 17 people
-  - Recruiting, on-boarding, performance evaluation, counseling
-  - Assigned teams at > 70 % utilization despite COVID-19
 
 ### Accenture
 `2017/06 - 2018/12`
 **Senior Manager**, Berlin, Germany
-- Resources Industry Technology Consulting Leadership Team
+- Annual sales > 10 M EUR, annual managed revenue > 2 M EUR
+- Recruiting, on-boarding, performance evaluation, counselling
+- Service offering development *New IT*, team grown from 4 to 21 people
 - Delivery management, project management, and consulting for CIO advisory and digital transformation
-- *Business & Practice Development:*
-  - Annual sales: > 10 Mio. EUR
-  - Annual managed revenue: > 2 Mio. EUR
-  - Recruiting, on-boarding, performance evaluation, counselling
-  - Service offering development *New IT*
-  - *New IT* team grown from 4 to 21 people
 
 ### Deloitte Consulting
 `2015/05 - 2017/05`
 **Senior Manager**, Berlin, Germany
-- Technology Strategy & Architecture (TS&A) Leadership Team
-- TS&A Life Sciences industry lead
-- TS&A Internet of Things (IoT) cluster lead
+- Annual sales > 2 M EUR, annual managed revenue > 1 M EUR
+- Recruiting, on-boarding, performance evaluation, counselling
+- Service offering developments *IoT Lab* and *Value Chain Resilience*, IoT team grown from 2 to 8 people
 - Launch of *Value Chain Resilience* as strategic BCM tool, extending BCM capabilities from local site focus to a connected, global level - both process and product based BC management (e.g., life-saving medicines)
 - Delivery management, project management, and consulting for CIO services and digital transformation
 - *Project reference:* Business Continuity Management, Program Manager and SME Business Continuity Management, Life Sciences, Leverkusen, Germany - Impact study of a wide area power outage in Germany’s Rhine-Ruhr metropolitan area on the global value chain of blockbuster products including life-saving medicines (*medically necessary drug products*)
-- *Business & Practice Development:*
-  - Annual sales: > 2 Mio. EUR 
-  - Annual managed revenue: > 1 Mio. EUR
-  - Recruiting, on-boarding, performance evaluation, counselling
-  - Service offering developments: *IoT Lab* and *Value Chain Resilience*
-  - IoT team grown from 2 to 8 people
 
 ### Lodestone Management Consultants
 `2013/01 - 2015/04`
 **Principal**, Munich, Germany
-- Business Strategy Transformation & IT Strategy Transformation
-- Project Management, Change Management, Consulting in Business Continuity Management, IT Risk Management, and IT Service Management
+- Annual sales ~ 1 M EUR, annual managed revenue ~ 0,5 M EUR, recruiting, on-boarding, performance evaluation, counselling
+- Consulting in Business Continuity Management, IT Risk Management, and IT Service Management
 - *Project reference:* Business Continuity Management, Program Manager and SME Business Continuity Management, Life Sciences, Leverkusen, Germany - Initiation, pilot, and execution of a global Business Continuity Management Program, implementating the global function *Business Continuity Management* as part of the client's Enterprise Risk Management
-- *Business & Practice Development:*
-  - Annual sales: ~ 1 Mio. EUR
-  - Annual managed revenue: ~ 0,5 Mio. EUR
-  - Recruiting, on-boarding, performance evaluation, counselling
 
 ### IDS Scheer
 `2006/09 - 2012/12`
@@ -93,6 +69,32 @@ Germany<br/>
 - Development of process based Business Impact Analysis and BC planning, launched with new ARIS product release
 - Project Management, Consulting in Business Process Management, Enterprise Architecture Management, IT Governance, Risk & Compliance, IT Risk Management, IT Security Management, IT Service Management, and Business Continuity Management
 - Business Development & Practice Development (recruiting, on-boarding, performance evaluation, counselling, service offering development)
+- *Project references:*
+  - Supply Chain Management, Head of PMO and SME Project Management, Chemicals, Riyadh, Saudi Arabia - Implementation of SAP-based Supply Chain Management processes, an e-Commerce Portal, and a Business Intelligence Platform; responsible for Project Management Office, change management, risk management and issue management, emergency response & contingency planning, evacuation of consultants and teachers during Arab Spring uprisings out of Alexandria, Egypt, keeping up project delivery and operations for global distributed team during Eyjafjallajökull eruption grounding flight operations
+  - Cyber Security, SME Cyber Security, *German Federal Armed Forces, Bonn, Germany* - Design of client specific adaptions of ITIL V3 processes *IT Service Continuity Management* and *Information Security Management* based on ISO 27001 and IT-Grundschutz (BSI)
+
+### Business Continuity Management
+`2008/01 - 2008/07`
+**Head of PMO and SME Project Management**<br/> 
+*Energy Trading, Düsseldorf, Germany*<br/>
+Design and implementation of an integrated Business Continuity Management System (BCMS) according to BS 25999 followed by the European wide integration of 9 market units into the newly set-up, central BCMS while supporting and coaching the BCM team
+
+### Business Continuity Management
+`2007/10 - 2007/12`
+**SME Business Continuity Management**<br/> 
+*Financial Services, Saarbrücken, Germany*<br/>
+Operational support of the Business Continuity Manager and redesign of the Business Continuity Management framework, including quality control of earlier analysis (Business Impact Analysis, etc.), integration of BCM into the corporate Safety & Security Management, and coaching client personnel
+
+### Business Continuity Management
+`2006/07 - 2009/01`
+**Deputy Business Continuity Manager & Program Manager**<br/> 
+*Energy Trading, Munich, Germany*<br/>
+Design and implementation of an integrated Business Continuity Management System (BCMS) followed by operational support and redesign of the Business Continuity Management framework acting as Deputy Business Continuity Manager during an enterprise restructuring
+-	Supporting and coaching the Business Continuity Manager
+- Fit/gap analysis of current BCM processes against good practices
+-	Design and implementation of a customized software solution for the ARIS Business Architect to support and perform BCM activities (Business Impact Analysis, qualitative and quantitative Risk Analysis, automatic creation of emergency response plans) 
+-	Preparation, execution and debriefing of emergency exercises
+-	Design and implementation of an incident & crisis management process followed by the integration of BCM into the corporate Risk Management
 
 ### inoplex AG
 `2003/01 - 2006/07`
